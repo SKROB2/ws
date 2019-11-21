@@ -14,3 +14,12 @@ SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
 Section: Tweaks
 Depiction: https://SKROB0.github.io/repo
 Name: appstore++
+{
+	"name": "AlbumHider",
+	"desc_short": "Hide Album's On Photo App",
+	"desc_long": "On Album Section Tap Edit and Tap on Bookmark Icon and Hide/Show Any Album's.<br><br>No Options To Configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0~beta1</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/wg6WEq2.png' target='_blank'><img width=95% src='https://i.imgur.com/wg6WEq2.png'/></a><br></div>",
+	"open": true,
+}
