@@ -14,3 +14,18 @@ SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
 Section: Tweaks
 Depiction: https://SKROB0.github.io/repo
 Name: appstore++
+
+Package: com.unlimapps.gramplus
+Version: 1.8r-289
+Architecture: iphoneos-arm
+Maintainer: SKROB
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uasharedtools (>= 2.2r-94)
+Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus, com.jake0oo0.instabetter, com.insanj.savegram
+Filename: Tweaks
+Size: 9669452
+MD5sum: 05dfd98b43828bcac65ac0da8e95125d
+SHA1: 7fabecbf88860a470fc5d934a71da891808cca0a
+SHA256: b0dcedef83e0b4bdf8c0b456b50ae26ca8b892ff9ebe0f40a1bb75245ffabb8a
+Section: Tweaks
+Depiction: https://skrob0.github.io/repo/
+Name: Instagram ++
