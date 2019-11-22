@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: SKROB
 Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uasharedtools (>= 2.2r-94)
 Conflicts: repo.biteyourapple.net.pluscrack, repo.biteyourapple.net.gramplus, com.jake0oo0.instabetter, com.insanj.savegram
-Filename: Tweaks
+Filename: بلس ++
 Size: 9669452
 MD5sum: 05dfd98b43828bcac65ac0da8e95125d
 SHA1: 7fabecbf88860a470fc5d934a71da891808cca0a
