@@ -26,6 +26,22 @@ Size: 9669452
 MD5sum: 05dfd98b43828bcac65ac0da8e95125d
 SHA1: 7fabecbf88860a470fc5d934a71da891808cca0a
 SHA256: b0dcedef83e0b4bdf8c0b456b50ae26ca8b892ff9ebe0f40a1bb75245ffabb8a
-Section: Tweaks
+Section: بلس++
 Depiction: https://skrob0.github.io/repo/
 Name: Instagram ++
+
+
+Package: com.openhebrew.snaptap
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: SKROB
+Depends: mobilesubstrate, preferenceloader, openssl 
+Conflicts: firmware (>= 3.0)
+Filename: Tweaks
+Size: 24160
+MD5sum:bbc7ed5c9650af333246dbea9cd29a76
+SHA1: a706d33c9d801b21fc0327a89adab119c68c9616 
+SHA256: 33e0f7661fe5af92cdac11e904623838bb513b88cfea7220da7136c98e8018b1
+Section: Tweaks
+Depiction: https://skrob0.github.io/repo/ 
+Name: SnapTap 
